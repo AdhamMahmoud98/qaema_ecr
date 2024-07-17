@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="profile_Background_Clr">#F9F9F9</color>
+    <color name="profile_Text_Color">#72788E</color>
+    <color name="logout_Text_Color">#F74F4F</color>
+    <color name="logout_Button_Color">#FBE7E7</color>
+</resources>

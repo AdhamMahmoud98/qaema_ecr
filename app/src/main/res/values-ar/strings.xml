@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Qaema ECR</string>
+    <string name="profile_Title">الملف الشخصي</string>
+    <string name="email_Title">البريد الإلكتروني</string>
+    <string name="mobile_Title">الجوال</string>
+    <string name="app_Settings_Title">إعدادات التطبيق</string>
+    <string name="language_Title">اللغة</string>
+    <string name="need_Help_Text">هل تحتاج مساعدة؟</string>
+    <string name="contact_Us_Text">تواصل معنا على</string>
+    <string name="logout_Text">خروج</string>
+</resources>
